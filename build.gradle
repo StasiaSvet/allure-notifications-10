@@ -8,12 +8,12 @@ repositories {
 }
 
 allure {
-    version = "2.13.8"
+    version = "2.13.9"
     autoconfigure = true
     aspectjweaver = true
     configuration = "testImplementation"
     useJUnit5 {
-        version = "2.13.8"
+        version = "2.13.9"
     }
 }
 
